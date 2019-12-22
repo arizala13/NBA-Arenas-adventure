@@ -6,8 +6,12 @@ This is a text based game that was created in C. It uses unix to create a file w
 
 To run this copy buildrooms.c in terminal, then copy adventure.c in terminal. 
 
-After to make them executable type in gcc -o arizalan.buildrooms.c arizalan.adventure.c arizalan.buildrooms arizalan.adventure
+After to make them executable type in gcc -o arizalan.buildrooms.c arizalan.buildrooms and gcc -o arizalan.adventure.c arizalan.adventure
+
+If using macOS you will use clang instead of gcc. 
 
 Then you can use ./arizalan.buildrooms to create rooms. Then ./arizalan.adventure will get the most recently created buildrooms instance to play the game. 
 
 Lastly, enjoy! I plan on adding all 30 nba teams and more. 
+
+
