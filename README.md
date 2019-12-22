@@ -1,4 +1,4 @@
-# NBA-Stadiums-adventure-
+# NBA-Arenas-adventure
 NBA Stadiums adventure 
 
 This is a text based game that was created in C. It uses unix to create a file with NBA stadiums that are connected then uses the adventure file to get the most recent created stadiums. The stadiums are connected and there is only one start room and one end room. Once the end room is visited the user is told the game is over and the rooms visited and number of steps taken is displayed. 
