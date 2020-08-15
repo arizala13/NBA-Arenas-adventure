@@ -14,4 +14,4 @@ Then you can use ./arizalan.buildrooms to create rooms. Then ./arizalan.adventur
 
 Lastly, enjoy! I plan on adding all 30 nba teams and more. 
 
-![](https://github.com/arizala13/NBA-Arenas-adventure/blob/master/Screenshot%202019-12-21%2022.17.16.png”)
+![](/Screenshot%202019-12-21%2022.17.16.png)
